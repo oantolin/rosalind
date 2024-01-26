@@ -5,7 +5,7 @@ lines:{0:dl,"rosalind_",x,".txt"}
 line:*lines@
 ints:.line@
 fasta:!/+{(1_*x;,/1_x)}'{(&">"=*'x)_x}@lines@
-out:{(dl,"out.txt") 1:x}
+out:{$[`A=@x;0:;1:][dl,"out.txt";x]}
 
 / problems
 
