@@ -1,0 +1,7 @@
+#+title: Solutions to Rosalind problems
+
+[[https://rosalind.info/about/][Rosalind]] is a collection of programming puzzles inspired by
+bioinformatics. This repo has my solutions to some of the problems. I
+might eventually use a mix of languages but for now they are all in
+[[https://codeberg.org/ngn/k][ngn/k]] (most of the early Rosalind problems are one-liners in that
+language).
